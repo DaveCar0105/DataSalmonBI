@@ -5,9 +5,6 @@ generator client {
   provider = "prisma-client-js"
   previewFeatures = ["mongodb"]
 }
-//comerjeario
-//sd
-
 
 datasource db {
   provider = "mongodb"
